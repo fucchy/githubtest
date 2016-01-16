@@ -10,7 +10,9 @@ GitHubについて
 
 Gitについて
 -----------
+`
 $ git merge : 
+`
 
 $ git clone <https://github.com/fucchy/githubtest.git> : githubtestをローカルレポジトリに落とす
 
@@ -23,6 +25,12 @@ $ git branch <新しいブランチ名> : <新しいブランチ名>を作成
 $ git commit -m "<コミット内容>" : <コミット内容>をコミットする
 
 $ git add <file_name> : <file_name>を追加。
+
+
+Markdown記法について
+--------------------
+
+
 
 ToDo
 ------------------------------
