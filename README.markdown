@@ -11,8 +11,9 @@ GitHubについて
 Gitについて
 -----------
 `
-$ git merge : 
+$ git merge 
 `
+マージする
 
 $ git clone <https://github.com/fucchy/githubtest.git> : githubtestをローカルレポジトリに落とす
 
