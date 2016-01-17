@@ -13,14 +13,17 @@ Gitについて
 `
 $ git merge 
 `
-- マージする
+* マージする
 
 `
 $ git clone <https://github.com/fucchy/githubtest.git>
 `
-githubtestをローカルレポジトリに落とす
+* githubtestをローカルレポジトリに落とす
 
-$ git branch : 現在のブランチ一覧とHEADの位置を表示する
+`
+$ git branch
+`
+* 現在のブランチ一覧とHEADの位置を表示する
 
 $ git checkout <ブランチ名> : <ブランチ名>へ移動
 
